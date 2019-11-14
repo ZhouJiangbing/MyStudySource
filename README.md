@@ -10,4 +10,5 @@ https://github.com/ZhouJiangbing/numpy-ml
 
 ### good blog
 https://plmsmile.github.io/archives/
+https://kexue.fm/category/Big-Data
 
