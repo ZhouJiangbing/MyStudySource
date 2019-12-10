@@ -17,3 +17,6 @@ https://kexue.fm/category/Big-Data
 #大厂对话系统实践文章链接
 https://blog.csdn.net/hero00e/article/details/102964923
 
+#推荐系统遇上深度学习
+https://www.jianshu.com/nb/21403842
+
